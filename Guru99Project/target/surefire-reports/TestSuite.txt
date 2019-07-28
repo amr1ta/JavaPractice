@@ -1,0 +1,46 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 93.409 sec <<< FAILURE!
+getURI(guru99.day7.test.apiTest)  Time elapsed: 0.598 sec  <<< FAILURE!
+org.json.JSONException: Expected a ':' after a key at 7 [character 8 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+	at org.json.JSONObject.<init>(JSONObject.java:213)
+	at org.json.JSONObject.<init>(JSONObject.java:319)
+	at guru99.day7.test.apiTest.getURI(apiTest.java:33)
+
+getURI(guru99.day7.test.apiTest)  Time elapsed: 0.502 sec  <<< FAILURE!
+org.json.JSONException: Expected a ':' after a key at 7 [character 8 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+	at org.json.JSONObject.<init>(JSONObject.java:213)
+	at org.json.JSONObject.<init>(JSONObject.java:319)
+	at guru99.day7.test.apiTest.getURI(apiTest.java:33)
+
+getURI(guru99.day7.test.apiTest)  Time elapsed: 0.499 sec  <<< FAILURE!
+org.json.JSONException: Expected a ':' after a key at 7 [character 8 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+	at org.json.JSONObject.<init>(JSONObject.java:213)
+	at org.json.JSONObject.<init>(JSONObject.java:319)
+	at guru99.day7.test.apiTest.getURI(apiTest.java:33)
+
+getURI(guru99.day7.test.apiTest)  Time elapsed: 0.513 sec  <<< FAILURE!
+org.json.JSONException: Expected a ':' after a key at 7 [character 8 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+	at org.json.JSONObject.<init>(JSONObject.java:213)
+	at org.json.JSONObject.<init>(JSONObject.java:319)
+	at guru99.day7.test.apiTest.getURI(apiTest.java:33)
+
+getURI(guru99.day7.test.apiTest)  Time elapsed: 0.513 sec  <<< FAILURE!
+org.json.JSONException: Expected a ':' after a key at 7 [character 8 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+	at org.json.JSONObject.<init>(JSONObject.java:213)
+	at org.json.JSONObject.<init>(JSONObject.java:319)
+	at guru99.day7.test.apiTest.getURI(apiTest.java:33)
+
+getURI(guru99.day7.test.apiTest)  Time elapsed: 0.501 sec  <<< FAILURE!
+org.json.JSONException: Expected a ':' after a key at 7 [character 8 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+	at org.json.JSONObject.<init>(JSONObject.java:213)
+	at org.json.JSONObject.<init>(JSONObject.java:319)
+	at guru99.day7.test.apiTest.getURI(apiTest.java:33)
+

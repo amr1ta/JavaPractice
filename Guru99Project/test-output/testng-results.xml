@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25823" started-at="2019-04-19T17:10:55Z" finished-at="2019-04-19T17:11:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25823" started-at="2019-04-19T17:10:55Z" finished-at="2019-04-19T17:11:21Z">
+      <class name="ecom.Ecom_day1">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:ecom.Ecom_day1@23a2f9]" name="invokeBrowser" is-config="true" duration-ms="12048" started-at="2019-04-19T22:40:55Z" finished-at="2019-04-19T22:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="title()[pri:0, instance:ecom.Ecom_day1@23a2f9]" name="title" duration-ms="165" started-at="2019-04-19T22:41:07Z" finished-at="2019-04-19T22:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ecom.Ecom_day1@23a2f9]" name="tearDown" is-config="true" duration-ms="832" started-at="2019-04-19T22:41:07Z" finished-at="2019-04-19T22:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:ecom.Ecom_day1@23a2f9]" name="invokeBrowser" is-config="true" duration-ms="8789" started-at="2019-04-19T22:41:08Z" finished-at="2019-04-19T22:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="mobile()[pri:0, instance:ecom.Ecom_day1@23a2f9]" name="mobile" duration-ms="3027" started-at="2019-04-19T22:41:17Z" finished-at="2019-04-19T22:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ecom.Ecom_day1@23a2f9]" name="tearDown" is-config="true" duration-ms="914" started-at="2019-04-19T22:41:20Z" finished-at="2019-04-19T22:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ecom.Ecom_day1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

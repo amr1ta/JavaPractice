@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="guru99.day1to6.test.LoginTest">
+        <methods>
+          <include name="invokeBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- guru99.day1to6.test.LoginTest -->
+      <class name="guru99.day7.test.apiTest">
+        <methods>
+          <include name="getURI" invocation-numbers="0 1 2 3 4 5"/>
+        </methods>
+      </class> <!-- guru99.day7.test.apiTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
