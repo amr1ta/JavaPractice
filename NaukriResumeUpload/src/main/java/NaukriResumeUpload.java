@@ -26,8 +26,8 @@ public class NaukriResumeUpload {
 	driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	driver.get("https://www.naukri.com/nlogin/logout");
 	System.out.println(driver.getTitle());
-		driver.findElement(By.id("usernameField")).sendKeys("amrita.mahapatra11@gmail.com");
-		driver.findElement(By.id("passwordField")).sendKeys("JW5z:M4PY_C:Ww6");
+		driver.findElement(By.id("usernameField")).sendKeys("");
+		driver.findElement(By.id("passwordField")).sendKeys("");
 		driver.findElement(By.xpath("//*[@id=\'loginForm\']/div/div[3]/button")).click();
 		driver.findElement(By.xpath("//div[@title=\'Amrita Mahapatra\']")).click(); 
 		driver.findElement(By.id("attachCV")).sendKeys("C:\\Users\\Amrita\\Documents\\GDrive\\Amrita_Mahapatra_Resume_QA_Automation.docx");
